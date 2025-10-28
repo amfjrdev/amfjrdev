@@ -39,18 +39,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- General stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=radical" alt="Amine Ferrad GitHub Stats" />
-  
-  <!-- Streak stats -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amfjrdev&theme=radical" alt="Amine Ferrad GitHub Streak" />
-</p>
+<!-- Total stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=radical" />
 
-<p align="center">
-  <!-- Top languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfjrdev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!-- Contributions graph (jour par jour) -->
+![Contribution Graph](https://ghchart.rshah.org/amfjrdev)
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amfjrdev&theme=radical" />
 
 
 ---
