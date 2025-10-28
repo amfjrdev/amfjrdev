@@ -39,15 +39,14 @@
 
 ### 📊 GitHub Stats
 
-<!-- Total stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=radical" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amfjrdev&theme=radical" alt="GitHub Streak" />
+</p>
 
-<!-- Contributions graph (jour par jour) -->
-![Contribution Graph](https://ghchart.rshah.org/amfjrdev)
-
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amfjrdev&theme=radical" />
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amfjrdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
