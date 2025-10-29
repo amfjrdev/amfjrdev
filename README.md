@@ -22,9 +22,7 @@
   <a href="https://www.linkedin.com/in/mohamed-amine-ferrad-7228a4369" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/ma.imed.756" target="_blank">
-    Facebook
-  </a>
+ 
 </p>
 
 ---
