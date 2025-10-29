@@ -39,15 +39,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- Total GitHub stats (all-time) -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <!-- Streak (optionnel, juste la durée totale max/current streak) -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amfjrdev&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Top languages (all-time) -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amfjrdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -55,12 +51,7 @@
 
 ### 🚀 Current Projects
 
-- 🏫 Building a **School Management System** with:
-  - Backend: **ASP.NET Core, C#, EF Core, SQL Server**
-  - Frontend: **React.js**
-  - Features: Attendance, Billing, Salary Calculation, and Monthly Reports.
-
-- 🧠 Experimenting with **AI-powered features** to automate reporting and performance insights.
+<!-- No current projects at the moment -->
 
 ---
 
