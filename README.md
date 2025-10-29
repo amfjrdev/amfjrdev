@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/ma.imed.756" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook"/>
+    Facebook
   </a>
 </p>
 
@@ -43,15 +43,14 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amfjrdev&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- Top languages hidden if no data -->
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amfjrdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
-### 🚀 Current Projects
 
-<!-- No current projects at the moment -->
 
 ---
 
