@@ -27,7 +27,7 @@ mohamed_amine.ferrad@univ-constantine2.dz
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,html,css,js,react,git,github,vscode,visualstudio,sqlserver" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,html,css,js,react,swift,git,github,vscode,visualstudio,sqlserver" />
 </p>
 
 ---
@@ -64,15 +64,7 @@ mohamed_amine.ferrad@univ-constantine2.dz
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfjrdev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/amfjrdev/amfjrdev/output/snake.svg" />
-</p>
-
----
 
 <p align="center">
 <i>Building clean, scalable backend systems.</i>
