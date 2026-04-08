@@ -45,8 +45,7 @@ mohamed_amine.ferrad@univ-constantine2.dz
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfjrdev&layout=compact&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true" />
 </p>
 
 ---
