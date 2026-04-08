@@ -2,11 +2,11 @@
 <h3 align="center">.NET Backend Developer</h3>
 
 <p align="center">
-  Backend developer focused on building scalable APIs and clean backend architectures.
+Backend developer focused on building scalable APIs and clean backend architectures.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amfjrdev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amfjrdev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🇩🇿 Backend developer based in **Algeria**
 - 🔧 Specialized in **.NET / C# API Development**
 - 🧱 Experienced with **Clean Architecture, REST APIs, and JWT Authentication**
-- 🌱 Currently learning **Artificial Intelligence integration in backend systems**
+- 🚀 Building scalable backend systems
 - 💬 Ask me about **.NET, C#, Entity Framework, and SQL Server**
 
 📫 **Contact:**  
@@ -26,27 +26,50 @@ mohamed_amine.ferrad@univ-constantine2.dz
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,html,css,js,react,swift,git,github,vscode,visualstudio,sqlserver" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,html,css,js,react,git,github,vscode,visualstudio,sqlserver" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div> 
-  <a href="https://instagram.com/af.coder" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mohamedamine.ferrad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-ferrad-7228a4369/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p align="center">
+<a href="https://instagram.com/af.coder">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:mohamedamine.ferrad@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-amine-ferrad-7228a4369/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=default&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amfjrdev&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfjrdev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/amfjrdev/amfjrdev/output/snake.svg" />
 </p>
 
 ---
