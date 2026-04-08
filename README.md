@@ -27,7 +27,7 @@ mohamed_amine.ferrad@univ-constantine2.dz
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,html,css,js,react,git,github,vscode,visualstudio,sqlserver" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,html,css,js,react,swift,git,github,vscode,visualstudio,sqlserver" />
 </p>
 
 ---
@@ -45,8 +45,8 @@ mohamed_amine.ferrad@univ-constantine2.dz
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amfjrdev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfjrdev&layout=compact&theme=default" height="165"/>
 </p>
 
 ---
