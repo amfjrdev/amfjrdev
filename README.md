@@ -27,7 +27,7 @@ mohamed_amine.ferrad@univ-constantine2.dz
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,html,css,js,react,swift,git,github,vscode,visualstudio,sqlserver" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,html,css,js,react,swift,git,github,vscode,visualstudio,sqlserver" />
 </p>
 
 ---
