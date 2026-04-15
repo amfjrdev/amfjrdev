@@ -20,7 +20,7 @@ Backend developer focused on building scalable APIs and clean backend architectu
 - 💬 Ask me about **.NET, C#, Entity Framework, and SQL Server**
 
 📫 **Contact:**  
-mohamed_amine.ferrad@univ-constantine2.dz
+mohamedamine.ferrad@gmail.com
 
 ---
 
