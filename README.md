@@ -11,7 +11,7 @@ Backend developer focused on building scalable APIs and clean backend architectu
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me .
 
 - 🇩🇿 Backend developer based in **Algeria**
 - 🔧 Specialized in **.NET / C# API Development**
