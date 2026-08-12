@@ -37,8 +37,21 @@ mohamedamine.ferrad@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=amfjrdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amfjrdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <a href="https://github.com/amfjrdev">
+    <img src="https://img.shields.io/github/followers/amfjrdev?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
+
+  <a href="https://github.com/amfjrdev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/amfjrdev?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  </a>
+
+  <a href="https://github.com/amfjrdev?tab=repositories">
+    <img src="https://img.shields.io/github/repositories/amfjrdev?style=for-the-badge&logo=github&label=Repositories" alt="Repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Check out my repositories and projects on GitHub.</i>
 </p>
 
 <i>Building clean, scalable backend systems.</i>
