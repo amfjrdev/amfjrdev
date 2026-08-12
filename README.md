@@ -25,58 +25,11 @@
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-### 🔥 Backend
-
-| Technology            | Level |
-| --------------------- | ----- |
-| C#                    | ⭐⭐⭐⭐⭐ |
-| .NET                  | ⭐⭐⭐⭐⭐ |
-| ASP.NET Core          | ⭐⭐⭐⭐⭐ |
-| Web API               | ⭐⭐⭐⭐⭐ |
-| Entity Framework Core | ⭐⭐⭐⭐⭐ |
-| REST APIs             | ⭐⭐⭐⭐⭐ |
-| JWT Authentication    | ⭐⭐⭐⭐  |
-| Clean Architecture    | ⭐⭐⭐⭐  |
-| DDD                   | ⭐⭐⭐⭐  |
-| Node.js               | ⭐⭐⭐⭐  |
-| Express.js            | ⭐⭐⭐⭐  |
-
-### 🗄️ Database
-
-| Technology            | Level |
-| --------------------- | ----- |
-| SQL Server            | ⭐⭐⭐⭐⭐ |
-| Entity Framework Core | ⭐⭐⭐⭐⭐ |
-| MongoDB               | ⭐⭐⭐⭐  |
-| Mongoose              | ⭐⭐⭐⭐  |
-
-### 🎨 Frontend
-
-| Technology | Level |
-| ---------- | ----- |
-| HTML       | ⭐⭐⭐⭐⭐ |
-| CSS        | ⭐⭐⭐⭐  |
-| JavaScript | ⭐⭐⭐⭐  |
-| React      | ⭐⭐⭐⭐  |
-
-### 📱 Mobile
-
-| Technology | Level |
-| ---------- | ----- |
-| Swift      | ⭐⭐⭐   |
-| SwiftUI    | ⭐⭐⭐   |
-
-### 🔧 Tools & DevOps
-
-| Technology    | Level |
-| ------------- | ----- |
-| Git           | ⭐⭐⭐⭐⭐ |
-| GitHub        | ⭐⭐⭐⭐⭐ |
-| Docker        | ⭐⭐⭐⭐  |
-| VS Code       | ⭐⭐⭐⭐⭐ |
-| Visual Studio | ⭐⭐⭐⭐⭐ |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,js,html,css,react,swift,git,github,docker,vscode,visualstudio,sqlserver,mongodb" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -85,19 +38,19 @@
 <p align="center">
 
 <a href="https://instagram.com/af.coder">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <a href="mailto:mohamedamine.ferrad@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-amine-ferrad-7228a4369/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/amfjrdev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </p>
@@ -118,15 +71,19 @@
 
 ## 💡 What I Build
 
-```text
-🔐 Secure REST APIs
-🏗️ Clean Backend Architectures
-🗄️ Database-driven Applications
-👤 Authentication & Authorization Systems
-💳 Payment Integrations
-📡 Real-time Backend Services
-🚀 Scalable Web Applications
-```
+<p align="center">
+  🔐 Secure REST APIs
+  &nbsp; • &nbsp;
+  🏗️ Clean Backend Architectures
+  &nbsp; • &nbsp;
+  🗄️ Database-driven Applications
+  &nbsp; • &nbsp;
+  🔑 Authentication Systems
+  &nbsp; • &nbsp;
+  💳 Payment Integrations
+  &nbsp; • &nbsp;
+  🚀 Scalable Web Applications
+</p>
 
 ---
 
