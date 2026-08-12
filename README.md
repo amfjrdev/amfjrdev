@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,js,html,css,react,swift,git,github,docker,vscode,visualstudio,sqlserver,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python,kotlin,swift,js,html,css,react,git,github,docker,vscode,visualstudio,sqlserver,mongodb" alt="Tech Stack" />
 </p>
 
 ---
@@ -57,6 +57,93 @@
 
 ---
 
+## 🚀 What I Build
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Systems</h3>
+      <p>
+        Scalable REST APIs, authentication systems,
+        business logic and clean backend architectures.
+      </p>
+      <p>
+        <strong>.NET • C# • ASP.NET Core • Node.js</strong>
+      </p>
+    </td>
+
+```
+<td align="center" width="50%">
+  <h3>🌐 Web Applications</h3>
+  <p>
+    Modern web applications with responsive
+    interfaces and powerful backend services.
+  </p>
+  <p>
+    <strong>React • JavaScript • HTML • CSS</strong>
+  </p>
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>📱 Mobile Applications</h3>
+      <p>
+        Native mobile applications with clean,
+        responsive and maintainable interfaces.
+      </p>
+      <p>
+        <strong>Kotlin • Swift • SwiftUI</strong>
+      </p>
+    </td>
+
+```
+<td align="center" width="50%">
+  <h3>🤖 AI & Automation</h3>
+  <p>
+    Python-based tools, AI integrations,
+    machine learning experiments and automation.
+  </p>
+  <p>
+    <strong>Python • AI • Machine Learning</strong>
+  </p>
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Database Solutions</h3>
+      <p>
+        Reliable database architectures,
+        relationships, migrations and optimized queries.
+      </p>
+      <p>
+        <strong>SQL Server • MongoDB • EF Core</strong>
+      </p>
+    </td>
+
+```
+<td align="center" width="50%">
+  <h3>🐳 Deployment & DevOps</h3>
+  <p>
+    Containerized applications and
+    production-ready backend deployments.
+  </p>
+  <p>
+    <strong>Docker • Git • GitHub</strong>
+  </p>
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
 ## 🎯 Current Focus
 
 * 🚀 Advanced **ASP.NET Core**
@@ -64,31 +151,15 @@
 * 🗄️ **Entity Framework Core & SQL Server**
 * 🔐 **Authentication & Authorization**
 * 🌐 **REST API Development**
+* 🤖 **Python & AI Integration**
+* 📱 **Kotlin & Swift Development**
 * 🐳 **Docker & Deployment**
 * ⚡ Building production-ready backend systems
 
 ---
 
-## 💡 What I Build
-
 <p align="center">
-  🔐 Secure REST APIs
-  &nbsp; • &nbsp;
-  🏗️ Clean Backend Architectures
-  &nbsp; • &nbsp;
-  🗄️ Database-driven Applications
-  &nbsp; • &nbsp;
-  🔑 Authentication Systems
-  &nbsp; • &nbsp;
-  💳 Payment Integrations
-  &nbsp; • &nbsp;
-  🚀 Scalable Web Applications
-</p>
-
----
-
-<p align="center">
-  <i>Building clean, scalable backend systems.</i>
+  <i>Building clean, scalable and reliable software.</i>
 </p>
 
 <p align="center">
