@@ -34,10 +34,12 @@ mohamedamine.ferrad@gmail.com
 </a>
 </p>
 ---
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=amfjrdev&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=amfjrdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amfjrdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
-<p align="center">
+
 <i>Building clean, scalable backend systems.</i>
 </p>
