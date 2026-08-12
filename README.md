@@ -118,14 +118,18 @@ Scalable Web Applications
 * 🔹 Backend system architecture
 
 ---
-
-## 📊 GitHub Activity
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amfjrdev&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+  <a href="https://github.com/amfjrdev">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity">
+  </a>
 </p>
 
----
+<p align="center">
+  <strong>Check out my GitHub profile to see my latest repositories, commits, pull requests, and contributions.</strong>
+</p>
+
 
 <p align="center">
   <i>Building clean, scalable and maintainable backend systems.</i>
