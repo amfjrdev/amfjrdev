@@ -17,11 +17,12 @@
 * 🇩🇿 Backend Developer based in **Algeria**
 * 🔧 Specialized in **.NET / C# API Development**
 * 🧱 Experienced with **Clean Architecture, REST APIs, and JWT Authentication**
+* 🗄️ Experienced with **Entity Framework Core and SQL Server**
 * 🚀 Building scalable and maintainable backend systems
-* 💬 Ask me about **.NET, C#, Entity Framework, SQL Server, and REST APIs**
+* 💬 Ask me about **.NET, C#, ASP.NET Core, Entity Framework, SQL Server, and REST APIs**
 
 📫 **Contact:**
-[mohamedamine.ferrad@gmail.com](mailto:mohamedamine.ferrad@gmail.com)
+**[mohamedamine.ferrad@gmail.com](mailto:mohamedamine.ferrad@gmail.com)**
 
 ---
 
@@ -29,6 +30,42 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,html,css,js,react,swift,git,github,vscode,visualstudio,sqlserver" alt="Tech Stack">
+</p>
+
+---
+
+## 🏗️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" alt="Backend Technologies">
+</p>
+
+<p align="center">
+  <strong>ASP.NET Core • Web API • REST • JWT • Entity Framework Core • SQL Server • Node.js • Express.js</strong>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies">
+</p>
+
+---
+
+## 📱 Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift" alt="Mobile Development">
+</p>
+
+---
+
+## 🔧 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Development Tools">
 </p>
 
 ---
@@ -42,29 +79,58 @@
 </a>
 
 <a href="mailto:mohamedamine.ferrad@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-amine-ferrad-7228a4369/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<a href="https://github.com/amfjrdev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Build
+
+```text
+REST APIs
+Backend Systems
+Authentication & Authorization
+Clean Architecture
+Database-driven Applications
+Scalable Web Applications
+```
+
+---
+
+## 📌 Current Focus
+
+* 🔹 Advanced **ASP.NET Core**
+* 🔹 **Clean Architecture & DDD**
+* 🔹 **Entity Framework Core**
+* 🔹 **SQL Server**
+* 🔹 **REST API Design**
+* 🔹 **JWT Authentication**
+* 🔹 Backend system architecture
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amfjrdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amfjrdev&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amfjrdev&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ---
 
 <p align="center">
-  <i>Building clean, scalable backend systems.</i>
+  <i>Building clean, scalable and maintainable backend systems.</i>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects.
 </p>
