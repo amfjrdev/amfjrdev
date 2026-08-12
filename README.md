@@ -1,84 +1,64 @@
 <h1 align="center">Hi 👋, I'm Amine Ferrad</h1>
 
-<h3 align="center">
-  .NET Backend Developer • C# • ASP.NET Core • Clean Architecture
-</h3>
+<h3 align="center">.NET Backend Developer</h3>
 
 <p align="center">
-  Building scalable APIs, clean backend architectures, and reliable software systems.
+  Backend developer focused on building scalable APIs and clean backend architectures.
 </p>
 
 <p align="center">
-  <a href="https://github.com/amfjrdev">
-    <img src="https://komarev.com/ghpvc/?username=amfjrdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/amfjrdev?tab=followers">
-    <img src="https://img.shields.io/github/followers/amfjrdev?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=amfjrdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🇩🇿 Backend Developer based in **Algeria**
-- 💻 Specialized in **.NET / C# Backend Development**
-- 🧱 Building applications with **Clean Architecture & Domain-Driven Design**
-- 🚀 Experienced in designing **RESTful APIs and scalable backend systems**
-- 🔐 Working with **JWT Authentication, Authorization & Security**
-- 🗄️ Experienced with **Entity Framework Core & SQL Server**
-- 🌱 Currently improving my skills in **Backend Architecture & System Design**
-- 💬 Ask me about **C#, .NET, ASP.NET Core, EF Core, SQL Server & REST APIs**
+* 🇩🇿 Backend developer based in **Algeria**
+* 🔧 Specialized in **.NET / C# API Development**
+* 🧱 Experienced with **Clean Architecture, REST APIs, and JWT Authentication**
+* 🚀 Building scalable backend systems
+* 💬 Ask me about **.NET, C#, Entity Framework, and SQL Server**
+
+📫 **Contact:**
+[mohamedamine.ferrad@gmail.com](mailto:mohamedamine.ferrad@gmail.com)
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mongodb,redis" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,html,css,js,react,swift,git,github,vscode,visualstudio,sqlserver" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🏗️ Backend Expertise
+## 🌐 Connect With Me
 
-```text
-ASP.NET Core
-     │
-     ├── RESTful APIs
-     ├── Authentication & Authorization
-     ├── JWT
-     ├── Entity Framework Core
-     ├── SQL Server
-     ├── Dependency Injection
-     ├── Middleware
-     ├── Validation
-     └── API Documentation
+<p align="center">
 
-Architecture
-     │
-     ├── Clean Architecture
-     ├── Domain-Driven Design
-     ├── SOLID Principles
-     ├── Design Patterns
-     └── Scalable Backend Systems
+  <a href="https://instagram.com/af.coder">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="mailto:mohamedamine.ferrad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohamed-amine-ferrad-7228a4369/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amfjrdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <i>Building clean, scalable backend systems.</i>
+</p>
